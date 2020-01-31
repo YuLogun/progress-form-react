@@ -2,4 +2,4 @@
 https://github.com/expalmer/react-progress-form
 
 ### My demo
-http://progress-form-app.herokuapp.com/
+https://progress-form-app.herokuapp.com/
