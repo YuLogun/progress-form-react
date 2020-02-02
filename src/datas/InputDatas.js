@@ -1,7 +1,7 @@
 let datas = [
   {
     id: "name",
-    label: "Full Name",
+    label: "Name",
     value: "",
     validation: {
       rules: { name: [ "required", "regex:/^([a-zA-z]{3,10} [a-zA-z ]{3,})$/" ] },
